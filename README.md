@@ -14,7 +14,7 @@ In case you want to contact me !
 My mail : josephmuteba77@gmail.com
 My phone number : +243812579507 (Whatsapp included)
 My linkedin : www.linkedin.com/in/josephkadima
-My resume :  Linkto
+My resume :  https://drive.google.com/file/d/1siRXwfP6KCG3t45MCkXFnsZLqgAmMv9q/view?usp=sharing 
 
 
 
