@@ -1,5 +1,6 @@
 # Data-analysis-caste-study
 This case study is about a marketing analysis of a fictional bike-share company at chicago to help the company maximize the number of annual memberships.
+Files are organized and numbered to identify different steps of the project and their order. Feel free to give me a feedback !
 
 ## About me 
 Hello Every one 
@@ -15,7 +16,7 @@ My phone number : +243812579507 (Whatsapp included)
 My linkedin : www.linkedin.com/in/josephkadima
 My resume :  Linkto
 
-## Introduction 
+
 
 
 
