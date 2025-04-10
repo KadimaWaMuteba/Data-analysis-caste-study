@@ -1,5 +1,6 @@
 # All about the data used
 Link to the data source : [The data](https://divvy-tripdata.s3.amazonaws.com/index.html). 
+
 License of the data : It has been made available by Motivate International Inc. under this this [licence](https://divvybikes.com/data-license-agreement)
 
 ## Description of the data
