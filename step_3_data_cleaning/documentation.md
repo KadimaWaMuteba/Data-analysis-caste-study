@@ -1,32 +1,32 @@
 # All documentation of the cleaning process will be here
+The tool for the processing is R language with Rposit
 
-## Step 1 :  Remove Null or Empty values 
+### Business Logic (Check to see if the data makes sense given my understanding of the business) 
+The column of lattitude and longitude are not necessary for this use case analysis
 
-Misspelled words: Did you locate all misspellings?
+### Adapt the name of the columns by naming them in a meaningful way
+No need in this case
 
-Mistyped numbers: Did you double-check that your numeric data has been entered correctly?
+### Check that numeric, date, and string data are typecast correctly
 
-## Step 2 : Format all column correctly 
+### Remove Null or Empty values 
+Remove lines where the sex and year of birth are missing
 
-## check for incorrect values
+### Correct mispelled words and mistyped numeric values
 
-## 
+### Check for incorrect values
 
-Extra spaces and characters: Did you remove any extra spaces or characters using the TRIM function?
+### Format all column correctly 
 
-Duplicates: Did you remove duplicates in spreadsheets using the Remove Duplicates function or DISTINCT in SQL?
+### Removal of extra spaces and characters using the TRIM function
 
-Mismatched data types: Did you check that numeric, date, and string data are typecast correctly?
+### Remove duplicates in spreadsheets using the Remove Duplicates function or DISTINCT in SQL
 
-Messy (inconsistent) strings: Did you make sure that all of your strings are consistent and meaningful?
+### Messy (inconsistent) strings 
 
-Messy (inconsistent) date formats: Did you format the dates consistently throughout your dataset?
+### Messy (inconsistent) date formats throughout the dataset
 
-Misleading variable labels (columns): Did you name your columns meaningfully?
-
-Truncated data: Did you check for truncated or missing data that needs correction?
-
-Business Logic: Did you check that the data makes sense given your knowledge of the business? 
+### Truncated data : missing data that needs correction
 
 
 ## New
