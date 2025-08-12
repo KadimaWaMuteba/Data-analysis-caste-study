@@ -2,10 +2,9 @@
 The tool for the processing is R language with Rposit
 
 ### Business Logic (Check to see if the data makes sense given my understanding of the business) 
-The column of lattitude and longitude are not necessary for this use case analysis
+The column of trip_id, bike_id,readible_type, start_lat, start_long, end_lat, end_long are not necessary for this use case analysis
 
 ### Adapt the name of the columns by naming them in a meaningful way
-No need in this case
 
 ### Check that numeric, date, and string data are typecast correctly
 
@@ -27,6 +26,9 @@ Remove lines where the sex and year of birth are missing
 ### Messy (inconsistent) date formats throughout the dataset
 
 ### Truncated data : missing data that needs correction
+
+### Multiple Umputation of the gender and year variable
+Used to fill the missing values to approach something that is likely true based on probability
 
 
 ## New
