@@ -9,14 +9,11 @@ The tool for the processing is R language with Rposit
 ### Check for incorrect values
 ### Removal of extra spaces and characters using the TRIM function
 ### Remove duplicates in spreadsheets using the Remove Duplicates function or DISTINCT in SQL
-
-
 ### Messy (inconsistent) strings 
 ### Messy (inconsistent) date formats throughout the dataset
-### Truncated data : missing data that needs correction
-### Multiple Umputation of xxxx variable
+### Truncated data : missing data that needs correction (Not applied)
+### Multiple Umputation of xxxx variable(Not applied)
 Used to fill the missing values to approach something that is likely true based on probability, NA
-
 
 ## New
     - Added column classifiers (Date, Time, PerUnitCost, TotalCost, etc. )
@@ -36,8 +33,6 @@ Used to fill the missing values to approach something that is likely true based 
     - Changed the column usertype to user_type
     - Changed the column birthyear to birth_year
     - Removal of 18023 lines where birthyear was missing 
-
-    
 
 ## Fixes
     - Fixed misalignment in Column "TotalCost" where some rows did not match with correct dates
