@@ -1,18 +1,17 @@
 # All documentation of the cleaning process will be here
-The tool for the processing is R language with Rposit
-
-### Business Logic (Check to see if the data makes sense given my understanding of the business) 
-### Adapt the name of the columns by naming them in a meaningful way
-### Check that numeric, date, and string data are typecast correctly
-### Remove Null or Empty values
-### Correct mispelled words and mistyped numeric values
-### Check for incorrect values
-### Removal of extra spaces and characters using the TRIM function
-### Remove duplicates in spreadsheets using the Remove Duplicates function or DISTINCT in SQL
-### Messy (inconsistent) strings 
-### Messy (inconsistent) date formats throughout the dataset
-### Truncated data : missing data that needs correction (Not applied)
-### Multiple Umputation of xxxx variable(Not applied)
+The complete list of things checked : 
+- Business Logic (Check to see if the data makes sense given my understanding of the business) 
+- Adapt the name of the columns by naming them in a meaningful way
+- Check that numeric, date, and string data are typecast correctly
+- Remove Null or Empty values
+- Correct mispelled words and mistyped numeric values
+- Check for incorrect values
+- Removal of extra spaces and characters using the TRIM function
+- Remove duplicates in spreadsheets using the Remove Duplicates function or DISTINCT in SQL
+- Messy (inconsistent) strings 
+- Messy (inconsistent) date formats throughout the dataset
+- Truncated data : missing data that needs correction (Not applied)
+- Multiple Umputation of xxxx variable(Not applied)
 Used to fill the missing values to approach something that is likely true based on probability, NA
 
 ## New
